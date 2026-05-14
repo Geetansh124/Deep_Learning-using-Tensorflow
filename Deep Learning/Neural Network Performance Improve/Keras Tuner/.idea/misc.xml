@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="deeplearning-gpu" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="WSL (Ubuntu-24.04): (/home/opera/miniconda3/envs/tf-gpu/bin/python)" project-jdk-type="Python SDK" />
 </project>
